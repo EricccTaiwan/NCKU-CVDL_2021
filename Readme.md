@@ -1,4 +1,4 @@
-# NCKU-CVDL_2021
+# NCKU-IPCVDL_2021
 [CSIE5009] Introduction To Image Processing, Computer Vision and Deep Learning 2021 Course Materials
 
 # Note
